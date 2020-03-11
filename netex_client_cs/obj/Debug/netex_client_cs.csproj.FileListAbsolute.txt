@@ -1,0 +1,14 @@
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\netex_client_cs.exe.config
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\netex_client_cs.exe
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\netex_client_cs.pdb
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Flurl.dll
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Flurl.Http.dll
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Flurl.xml
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Flurl.Http.xml
+C:\Projects\netex_client_cs\netex_client_cs\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\netex_client_cs\netex_client_cs\obj\Debug\netex_client_cs.csprojAssemblyReference.cache
+C:\Projects\netex_client_cs\netex_client_cs\obj\Debug\netex_client_cs.csproj.CoreCompileInputs.cache
+C:\Projects\netex_client_cs\netex_client_cs\obj\Debug\netex_client_cs.csproj.CopyComplete
+C:\Projects\netex_client_cs\netex_client_cs\obj\Debug\netex_client_cs.exe
+C:\Projects\netex_client_cs\netex_client_cs\obj\Debug\netex_client_cs.pdb
